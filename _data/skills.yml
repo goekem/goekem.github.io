@@ -1,12 +1,15 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Leadership and Communication
+  description: Stakeholder engagement and relationship management, briefing senior leaders and decision-makers, policy development and implementation
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Strategic Planning and Coordination
+  description: Strategic plan development and execution, cross-functional team collaboration, crisis response and contingency planning
+  
+- skill: Data Analysis and Reporting
+  description: Qualitative and quantitative analysis, data visualization and graphical reporting, performance metrics and evaluation
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Technical Tools and Systems
+  description: SharePoint site development and management, Microsoft Teams workflow optimization, Jira plugin customization
+  
+- skill: Project Management
+  description: Risk analysis and mitigation, resource alignment, on-time and in-scope project delivery
