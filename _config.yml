@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Max Goeke"
+description: "Cross-Functional Team Lead | Project Manager"
 url: "https://www.maxgoeke.com"
 
 # Build settings
@@ -12,14 +12,14 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Maxwell S. Goeke"
-resume_title:                   "Cross Functional Team Lead | Project Manager"
+resume_title:                   "Cross-Functional Team Lead | Project Manager"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "max@maxgoeke.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-5555"
-resume_contact_address:         "Seattle, Washington"
+resume_contact_address:         "Seattle, WA"
 
 resume_header_contact_info:     "Seattle, WA • max@maxgoeke.com"
 display_header_contact_info:    "true"
